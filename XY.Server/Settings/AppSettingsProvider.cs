@@ -1,6 +1,6 @@
 namespace XY.Server.Settings
 {
-    public class AppSettingsProvider
+    public static class AppSettingsProvider
     {
         public static BrokerHostSettings BrokerHostSettings;
         public static ClientSettings ClientSettings;
